@@ -48,6 +48,21 @@ Final assignments combine Pandas with NumPy for practical tasks like:
 
 ---
 
+### 📚 Credits & References
+
+This project and its exercises are inspired by the following excellent online courses:
+
+* **[Complete Python 3 Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)**
+  by *Jose Portilla*
+
+* **[Data Analysis with Python, NumPy & Pandas Masterclass](https://www.udemy.com/course/data-analysis-with-python-numpy-pandas/)**
+  by *Chris Bruehl* – *Maven Analytics*
+
+Special thanks to these instructors for their high-quality content and clear explanations.
+
+---
+
+
 ## 💻 How to Run
 
 Clone the repository and run the Jupyter notebooks locally
